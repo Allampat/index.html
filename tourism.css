@@ -1,0 +1,50 @@
+.back {
+    background-color: #03fc17;
+    background-size: cover;
+}
+
+.image {
+    text-align: center;
+}
+
+.para {
+    font-family: playfair display;
+    color: #070807;
+    text-align: center;
+    font-weight: bold;
+}
+
+.black {
+    background-color: #28a84d;
+    margin: 10px;
+}
+
+.head2 {
+    font-family: play fair display SC;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+    margin:10px;
+}
+
+.lis {
+    font-family: Bree Serif;
+    color: #070807;
+    list-style-type: circle;
+}
+
+.sp {
+    font-family: roboto;
+    color: black;
+    font-weight: bold;
+}
+
+.pp {
+    font-family: playfair display;
+    text-align: center;
+    margin:5px;
+    padding:5px;
+}
+.hh{
+    text-align:center;
+}
